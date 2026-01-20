@@ -46,7 +46,7 @@ print (x)
 
 What changed?
 
-Next, change the code in the chunk titled 'assignment-1' so that 3 -\> x. Finally, flip the x and the 3 in assignment-2 and save. Run both of the chunks now. What happens when you change the text?
+Next, change the code in the chunk titled 'assignment-1' so that 3 -\> x. Finally, flip the x and the 3 in assignment-2 and save. Run both of the chunks now. What happens when you change the text?data\_
 
 ## Types of Data
 
@@ -213,14 +213,16 @@ summary(Data_Frame)
 
 **Practice**: Make a data frame from scratch, with the following information.
 
-| Variable Name | Info in variable                                             |
-|---------------|--------------------------------------------------------------|
-| Species       | Pan paniscus, Gorilla gorilla, Homo sapiens, Cebus capucinus |
-| Ape           | TRUE, TRUE, TRUE, FALSE                                      |
-| Height        | 3.75, 5, 5.75, 2.75                                          |
+| Variable Name | Info in variable |
+|-----------------|-------------------------------------------------------|
+| Species | Pan paniscus, Gorilla gorilla, Homo sapiens, Cebus capucinus |
+| Ape | TRUE, TRUE, TRUE, FALSE |
+| Height | 3.75, 5, 5.75, 2.75 |
 
 What did you call your data frame? Try to make it something easy to call. If you're juggling with multiple data frames in a single project, maybe you want to make sure each one's named descriptively.
 
 ## Access Items
 
 We can use single brackets `[ ]`, double brackets `[[ ]]` or `$` to access columns from a data frame. I love a \$, myself.
+
+test
